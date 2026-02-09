@@ -1,0 +1,19 @@
+{
+  "name": "create-rspack-mfe",
+  "version": "1.0.3",
+  "description": "CLI to scaffold Rspack Module Federation micro-frontends",
+  "bin": {
+    "create-rspack-mfe": "./bin/index.js"
+  },
+  "type": "commonjs",
+  "keywords": [
+    "rspack",
+    "module-federation",
+    "microfrontend",
+    "cli",
+    "react"
+  ],
+  "author": "Ravi Kumar Yalla",
+  "license": "MIT",
+  "dependencies": {}
+}
