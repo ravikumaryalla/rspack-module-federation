@@ -24,7 +24,7 @@ const {
   setupBootstrap,
 } = require("../lib/generators");
 
-const ROOT_DIR = __dirname;
+const ROOT_DIR = process.cwd();
 
 async function main() {
   try {
